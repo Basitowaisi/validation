@@ -33,8 +33,8 @@ Please note that the size of the two arrays i.e., the data array and validation 
 
 ```php
 $data = [
-	'email' => 'eboybasit@gmail.com',
-	'email_confirm' => 'eboybasit@gmail.com',
+	'email' => 'example@gmail.com',
+	'email_confirm' => 'example@gmail.com',
 	'phone' => '9622428688',
 	'num' => 12,
 	'color' => '#ff98ff'
