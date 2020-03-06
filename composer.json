@@ -1,0 +1,29 @@
+{
+    "name": "eboybasit/validator",
+    "type": "library",
+    "version": "0.1.2",
+    "license": "MIT",
+    "keywords": [
+        "validator",
+        "form validator",
+        "php form validator",
+        "data validator"
+    ],
+    "authors": [
+        {
+            "name": "Basit Owaisi",
+            "email": "basitowaisi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload" : {
+      "files": [ 
+        "validation/App.php",
+        "validation/bootstrap.php"
+    ],
+      "psr-4": {
+        "eboybasit\\validation\\": "validation/"
+    }
+}
+}
