@@ -17,7 +17,7 @@ composer require eboybasit/validator
 
 ### Step 1.
 
-> Import following file into your project where you want to use the package functionality
+> Import following file into your project
 
 ```php
 require_once 'vendor/autoload.php';
